@@ -1,0 +1,9 @@
+[submodule "shoppingapp-ui"]
+	path = shoppingapp-ui
+	url = https://github.com/sf-fresher-batch-2020/shoppingapp-ui.git
+[submodule "shoppingapp-angular-ui"]
+	path = shoppingapp-angular-ui
+	url = https://github.com/sf-fresher-batch-2020/shoppingapp-angular-ui.git
+[submodule "shoppingapp-api"]
+	path = shoppingapp-api
+	url = https://github.com/sf-fresher-batch-2020/shoppingapp-api.git
